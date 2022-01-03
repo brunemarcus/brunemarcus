@@ -79,7 +79,7 @@ Sou Desenvolvedor Web FullStack há aproximadamente 4 anos, estou sempre em busc
 <table>
   <tr>
     <th>
-      <a href="https://www.linkedin.com/in/marcus-brune-205bb8124/" target="_blank">
+      <a href="https://www.linkedin.com/in/marcus-vinicius-brune-205bb8124/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
       </a>
       <a href="https://www.instagram.com/brunemarcus/" target="_blank">
