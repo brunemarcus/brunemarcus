@@ -70,7 +70,7 @@ Sou Desenvolvedor Web FullStack há aproximadamente 4 anos, estou sempre em busc
   </tr>
 </table>
 
-## 💡 Portifolio
+## 💡 Portifólio
 
 * <a href="https://github.com/brunemarcus/MovieShade">📺 Movies Shade</a>
 * <a href="https://github.com/brunemarcus/MySystemLabs">📆 Karatê Class</a>
