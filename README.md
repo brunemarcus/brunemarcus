@@ -21,6 +21,21 @@ Sou Desenvolvedor Web FullStack há aproximadamente 4 anos, estou sempre em busc
 * <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 * <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
+## 📩 Contato
+<table>
+  <tr>
+    <th>
+      <a href="https://www.linkedin.com/in/marcus-brune-205bb8124/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+      </a>
+      <a href="https://www.instagram.com/brunemarcus/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </th>
+  </tr>
+</table>
+
 ## 🔥 Github Stats
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=Merko)](https://github.com/iuricode/)
+
