@@ -23,4 +23,4 @@ Sou Desenvolvedor Web FullStack há aproximadamente 4 anos, estou sempre em busc
 
 ## 🔥 Github Stats
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=Merko)](https://github.com/iuricode/)
