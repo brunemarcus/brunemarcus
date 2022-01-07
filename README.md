@@ -78,7 +78,7 @@ Sou Desenvolvedor Web FullStack há aproximadamente 4 anos, estou sempre em busc
 ## 🌐 Site Pessoal
 * <a href="https://marcusbrune.herokuapp.com/">Marcus Brune</a>
 
-# Hacker Rank Profile
+## 🔥 Hacker Rank Profile
 * <a href="https://www.hackerrank.com/marcusbrune">Hacker Rank</a>
 
 ## 📩 Contato
